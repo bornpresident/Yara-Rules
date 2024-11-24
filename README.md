@@ -9,17 +9,6 @@ This repository contains YARA rules for malware research and detection. These ru
 - Share knowledge with the security research community
 - Support defensive security operations
 
-## Structure
-
-```
-├── rules/
-│   ├── ransomware/
-│   ├── trojans/
-│   └── general/
-├── tests/
-└── tools/
-```
-
 ## Usage
 
 1. Install YARA from the official repository: [virustotal/yara](https://github.com/virustotal/yara)
